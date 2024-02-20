@@ -1,0 +1,16 @@
+.headerContainer {
+  height: 50px;
+  width: 400px;
+  background-color: yellow;
+}
+.headerContainer nav {
+  width: 100%;
+
+}
+
+.navList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 0;
+}

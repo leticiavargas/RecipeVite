@@ -1,0 +1,12 @@
+.cardContainer {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid salmon;
+  border-radius: 8px;
+  margin: 8px;
+}
+

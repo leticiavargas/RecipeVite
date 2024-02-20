@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "leticia",
+      "password": 12345
+    }
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Sanduiche",
+      "description": "sanduiche de frango"
+    },
+    {
+      "id": 2,
+      "name": "Bolo",
+      "description": "Bolo de chocolate"
+    }
+  ]
+}
